@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+app/.env
+client_secret_*.json
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs & Database
+logs/
+*.log
+db.sqlite3
+instance/
+
+
+
+# VS Code Settings
+.vscode/
+
+# OS-generated files
+.DS_Store
