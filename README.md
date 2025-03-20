@@ -82,9 +82,4 @@ uvicorn app.main:app --reload
 ## ✅ Auth Endpoint to test:
 - [http://127.0.0.1:8000/auth/google](http://127.0.0.1:8000/auth/google)
 
----
 
-### 👨‍💻 Contributions
-For contributions or collaborations, feel free to create a pull request!
-
----
